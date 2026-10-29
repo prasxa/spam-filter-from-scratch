@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.bak
+*_report.txt
+report.txt
+diag.py
+check_port.py
+check_server.py
+find_screenshot.py
+step4_publish.py
+publish_all.py
+data/sms_spam_collection.zip
+data/SMSSpamCollection.txt
